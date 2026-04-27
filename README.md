@@ -9,12 +9,6 @@
 
 ---
 
-## PROYECTOS DESTACADOS
-
-- Three_Keys_Quest
-Videojuego desarrollado en Java como parte de un proyecto de clase
-[🔗Enlace al Proyecto](https://github.com/SergioGonMar31/Three_Keys_Quest)
-
 ## CONTACTO
 
 - Correo: sergiogonzalezmarquinez@gmail.com
