@@ -18,4 +18,3 @@ Videojuego desarrollado en Java como parte de un proyecto de clase
 ## CONTACTO
 
 - Correo: sergiogonzalezmarquinez@gmail.com
-- Linkedin: [Enlace](www.linkedin.com/in/sergio-gonzález-marquínez-521a673b3)
