@@ -6,7 +6,7 @@
 
 - Cursando un ciclo superior de Desarrollo de aplicaciones multiplataformas
 - Actualmente manejo Java, SQL, HTML5, CSS.
-- Mayor interes en Backend que en Frontend
+- Mayor interés en backend que en frontend
 
 ---
 
